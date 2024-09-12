@@ -1,3 +1,6 @@
+# Captura de tela do circuito
+![Captura de tela 2024-09-12 184948](https://github.com/user-attachments/assets/de25a00a-6b0a-481c-aeca-88a75cb576a0)
+
 # alarmClock_arduino
 - Este projeto consiste em um relógio com alarme que permite a edição do horário atual e do alarme.
 - Todo o processamento do programa é feito somente com o arduino
@@ -26,4 +29,5 @@
 - Na tela do alarme, se o botão vermelho for clicado por mais de 2 segundo o sistema entra em modo de edição:
     - clicando no botão vermelho a hora aumenta, no azul a hora diminui
     - Em seguida, clique no botão vermelho, agora os minutos podem ser editados com os mesmos botões
-    - Depois, clique no botão vermelho novamente para sair do modo de edição. Agora o relógio volta a funcionar
+    - Depois, clique no botão vermelho novamente para sair do modo de edição
+
